@@ -90,7 +90,6 @@ bash
 python -m streamlit run app.py
 Open the URL in your browser (usually http://localhost:8501).
 
-📸 Screenshots
 
 
 Main dashboard view
