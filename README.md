@@ -91,6 +91,7 @@ python -m streamlit run app.py
 Open the URL in your browser (usually http://localhost:8501).
 
 
+![1](https://github.com/user-attachments/assets/36453fec-52bf-413a-8e53-49ee3c9febb0)
 
 Main dashboard view
 
