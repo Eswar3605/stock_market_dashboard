@@ -97,7 +97,8 @@ Filtered view by ticker/date
 
 Aggregation tables and charts
 
-⚙ Notes
+⚙ Note: 
+
 If parquet files are large, you can exclude them from GitHub and regenerate locally using process_data.py.
 
 Make sure your CSV file (stock_market.csv) is placed in the data/ folder.
